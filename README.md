@@ -30,6 +30,7 @@ https://ollama.com/library/llama3.2
 https://github.com/Tencent/HunyuanVideo  
 https://github.com/kijai/ComfyUI-HunyuanVideoWrapper  
 https://github.com/comfyanonymous/ComfyUI_bitsandbytes_NF4  
+https://github.com/esciron/ComfyUI-HunyuanVideoWrapper-Extended  
 
 =模型  
 https://huggingface.co/Kijai/HunyuanVideo_comfy/resolve/main/hunyuan_video_720_cfgdistill_fp8_e4m3fn.safetensors  
