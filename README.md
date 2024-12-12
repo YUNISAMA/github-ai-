@@ -3,10 +3,10 @@ github上ai影片生成
 ==
 必裝項目  
 comfyui  
-https://github.com/comfyanonymous/ComfyUI
-https://github.com/T8star1984/comfyui-purgevram 
-https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite   
-https://github.com/ShmuelRonen/ComfyUI-FreeMemory  
+https://github.com/comfyanonymous/ComfyUI  
+https://github.com/T8star1984/comfyui-purgevram  
+https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite    
+https://github.com/ShmuelRonen/ComfyUI-FreeMemory    
  
 
 ==LTX-Video  
