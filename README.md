@@ -20,7 +20,7 @@ https://github.com/stavsap/comfyui-ollama
 https://github.com/VrchStudio/comfyui-web-viewer  
 https://github.com/DoctorDiffusion/ComfyUI-MediaMixer 
 
-=模型
+=模型  
 https://huggingface.co/Symphone/ltx-video-2b-v0.9-fp8/resolve/main/ltx-video-2b-v0.9-fp8_e4m3fn.safetensors   
 https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp8_e4m3fn_scaled.safetensors  
 https://huggingface.co/PixArt-alpha/PixArt-XL-2-1024-MS  
@@ -31,7 +31,7 @@ https://github.com/Tencent/HunyuanVideo
 https://github.com/kijai/ComfyUI-HunyuanVideoWrapper  
 https://github.com/comfyanonymous/ComfyUI_bitsandbytes_NF4  
 
-=模型
+=模型  
 https://huggingface.co/Kijai/HunyuanVideo_comfy/resolve/main/hunyuan_video_720_cfgdistill_fp8_e4m3fn.safetensors  
 https://huggingface.co/Kijai/HunyuanVideo_comfy/resolve/main/hunyuan_video_vae_bf16.safetensors   
 
