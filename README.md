@@ -1,5 +1,4 @@
-# github-ai-
-github上ai影片生成  
+# github上ai影片生成  
 ==
 必裝項目  
 comfyui  
@@ -36,4 +35,11 @@ https://github.com/esciron/ComfyUI-HunyuanVideoWrapper-Extended
 https://huggingface.co/Kijai/HunyuanVideo_comfy/resolve/main/hunyuan_video_720_cfgdistill_fp8_e4m3fn.safetensors  
 https://huggingface.co/Kijai/HunyuanVideo_comfy/resolve/main/hunyuan_video_vae_bf16.safetensors   
 
+==CogVideoX
+https://github.com/THUDM/CogVideo    
+https://github.com/aigc-apps/CogVideoX-Fun  
+kijai/ComfyUI-CogVideoXWrapper  
 
+=模型   
+https://huggingface.co/alibaba-pai/CogVideoX-Fun-V1.1-Reward-LoRAs/tree/main  
+https://civitai.com/models/1000190/cogvideoxxx15-5b-i2v-lora-nsfw  
