@@ -43,3 +43,4 @@ https://github.com/kijai/ComfyUI-CogVideoXWrapper
 =模型   
 https://huggingface.co/alibaba-pai/CogVideoX-Fun-V1.1-Reward-LoRAs/tree/main  
 https://civitai.com/models/1000190/cogvideoxxx15-5b-i2v-lora-nsfw  
+https://huggingface.co/alibaba-pai/CogVideoX-Fun-V1.5-Reward-LoRAs/tree/main   
